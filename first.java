@@ -6,5 +6,6 @@ public class MyClass {
 
       System.out.println("Sum of x+y = " + z);
 	   System.out.println("Sum of x+y = " + z);
+	   System.out.println("Sum of x+y = " + z);
     }
 }
