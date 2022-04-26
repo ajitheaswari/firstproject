@@ -4,9 +4,12 @@ public class MyClass { public static void main(String args[]) {
       int z=x+y;
 
       System.out.println("Sum of x+y = " + z);
+<<<<<<< HEAD
 	   System.out.println("Sum of x+y = " + z);
 	   System.out.println("Sum of x+y = " + z);
 	   system.out.print();
 	   system.out.print("baf");
+=======
+>>>>>>> parent of d8678f7 (commit to check revert changes)
     }
  
