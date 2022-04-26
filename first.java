@@ -5,10 +5,13 @@ public class MyClass { public static void main(String args[]) {
 
       System.out.println("Sum of x+y = " + z);
 <<<<<<< HEAD
+<<<<<<< HEAD
 	   System.out.println("Sum of x+y = " + z);
 	   System.out.println("Sum of x+y = " + z);
 	   system.out.print();
 	   system.out.print("baf");
+=======
+>>>>>>> parent of d8678f7 (commit to check revert changes)
 =======
 >>>>>>> parent of d8678f7 (commit to check revert changes)
     }
