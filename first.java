@@ -2,7 +2,8 @@ public class MyClass { public static void main(String args[]) {
       int x=10;
       int y=25;
       int d =30;
-      int h = 40:
+      int h = 40;
+      int ddd =0;
 
       System.out.println("Sum of x+y = " + z);
 <<<<<<< HEAD
